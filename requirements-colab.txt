@@ -1,0 +1,10 @@
+# The notebooks' setup cells install the first two packages in Colab.
+pyRDDLGym==2.7
+rddlrepository==2.2
+# Colab normally provides the remaining packages; install this file manually if needed.
+gymnasium
+numpy
+torch
+matplotlib
+tqdm
+ipython
